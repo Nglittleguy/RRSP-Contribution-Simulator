@@ -34,3 +34,10 @@ In all three cases, you are committed to "spending" the same amount of gross inc
 1.  Run the script to generate `rrsp_modeling_2026.csv`.
 2.  The CSV will break down results for 5 different growth rates (**12% to 30%**).
 3.  Compare the **Total Wealth** column at the 15 and 25-year marks to see which strategy wins at your expected rate of return.
+
+### Results
+<img width="629" height="475" alt="Screenshot 2026-03-21 at 8 17 22 PM" src="https://github.com/user-attachments/assets/12d7acc2-c33a-4553-a29a-6b2c2a16ef60" />
+<img width="634" height="472" alt="Screenshot 2026-03-21 at 8 17 27 PM" src="https://github.com/user-attachments/assets/dd0bc87d-7ad5-450a-b68f-de8c871ad2a2" />
+<img width="626" height="465" alt="Screenshot 2026-03-21 at 8 17 32 PM" src="https://github.com/user-attachments/assets/3c87f2ca-7029-4db3-9b87-9bf53acbb1e2" />
+<img width="629" height="471" alt="Screenshot 2026-03-21 at 8 17 38 PM" src="https://github.com/user-attachments/assets/8b9aa348-4bc6-4a1c-b4b3-37e8b04eb65b" />
+<img width="631" height="469" alt="Screenshot 2026-03-21 at 8 17 43 PM" src="https://github.com/user-attachments/assets/1678b524-331e-46cd-aa26-a63957d6f1fc" />
