@@ -28,12 +28,6 @@ In all three cases, you are committed to "spending" the same amount of gross inc
 * **Best For:** Professionals expecting a significant "hockey stick" increase in their salary over 10+ years.
 
 ---
-
-### 2026 Tactical Data Points
-The simulation uses the following legislative updates:
-* **Federal Tax Floor:** Reduced to **14%** (down from 15%) for the first $58,523.
-* **Capital Gains:** Fixed at a **50% inclusion rate**. The 66.7% "Carney/Trudeau" hike was officially scrapped in March 2025.
-* **RRSP Cap:** The maximum new room for 2026 is capped at **$33,810**.
 * **Liquidation Logic:** All stock growth is treated as realized annual income, meaning the "Total Wealth" shown is truly yours (after the tax man has taken his cut of the gains).
 
 ### How to Use
